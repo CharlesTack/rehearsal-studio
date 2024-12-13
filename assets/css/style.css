@@ -1,0 +1,12 @@
+.footer-links {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-links li {
+    margin: 10px 0;
+}
+
+.underlined-link {
+    text-decoration: none;
+}
